@@ -1,0 +1,111 @@
+{
+    "Jordan": [
+        {
+            "name": "Amman"
+        },
+        {
+            "name": "Zarqa"
+        },
+        {
+            "name": "Irbid"
+        },
+        {
+            "name": "Aqaba"
+        },
+        {
+            "name": "Mafraq"
+        },
+        {
+            "name": "Madaba"
+        },
+        {
+            "name": "Ma'an"
+        },
+        {
+            "name": "Karak"
+        },
+        {
+            "name": "Tafilah"
+        }
+    ],
+    "Saudi": [
+        {
+            "name": "Riyadh"
+        },
+        {
+            "name": "Jeddah"
+        },
+        {
+            "name": "Mecca"
+        },
+        {
+            "name": "Medina"
+        },
+        {
+            "name": "Dammam"
+        },
+        {
+            "name": "Ta’if"
+        },
+        {
+            "name": "Tabuk"
+        },
+        {
+            "name": "Al Kharj"
+        },
+        {
+            "name": "Buraydah"
+        },
+        {
+            "name": "Khamis Mushait"
+        },
+        {
+            "name": "Al Hufūf"
+        },
+        {
+            "name": "Al Mubarraz"
+        },
+        {
+            "name": "Hafar Al-Batin"
+        },
+        {
+            "name": "Ha'il"
+        },
+        {
+            "name": "Najrān"
+        },
+        {
+            "name": "Al Jubayl"
+        },
+        {
+            "name": "Abha"
+        },
+        {
+            "name": "Yanbu"
+        },
+        {
+            "name": "Khobar"
+        },
+        {
+            "name": "Arar"
+        },
+        {
+            "name": "Sakakah"
+        },
+        {
+            "name": "Jizan"
+        },
+        {
+            "name": "Qurayyat"
+        },
+        {
+            "name": "Dhahran"
+        },
+        {
+            "name": "Al Qaţīf"
+        },
+        {
+            "name": "Al Bahah"
+        }
+    ]
+}
